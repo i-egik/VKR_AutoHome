@@ -1,0 +1,4 @@
+src/main/java/ru/mifi/house/invoker/OpenApiGeneratorApplication.java
+src/main/resources/application.properties
+src/test/java/ru/mifi/house/invoker/OpenApiGeneratorApplicationTests.java
+OpenApiGeneratorApplication
